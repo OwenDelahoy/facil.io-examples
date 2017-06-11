@@ -1,4 +1,5 @@
 project (facil.io-examples C)
+cmake_minimum_required(VERSION 3.0)
 
 set(BUILD_SHARED_LIBS true)
 add_subdirectory(facil.io)
